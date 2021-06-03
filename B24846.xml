@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the commissioners from the Parliament of England whereas wee have received information that not onely divers souldiers of the Army, but severall disordered and loose persons, exact contribution or free quarters at their pleasure ...</title>
+            <author>England and Wales. Parliament. Commission for Ireland.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24846</idno><idno type="EEBO-CITATION">31354789</idno>
+  <idno type="VID">205875</idno>
+  <idno type="EEBO-PROQUEST">2240897520</idno>
+  
+            <idno type="STC">Wing I953</idno>
+            <idno type="OCLC">31354789</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205875)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1740:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the commissioners from the Parliament of England whereas wee have received information that not onely divers souldiers of the Army, but severall disordered and loose persons, exact contribution or free quarters at their pleasure ...</title>
+                  <author>England and Wales. Parliament. Commission for Ireland.</author>
+                  <author>Anglesey, Arthur Annesley, Earl of, 1614-1686.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By VVilliam Bladen ...,</publisher>
+                  <pubPlace>Jmprinted at Dublin :</pubPlace>
+                  <date>Anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at Dublin, the three and twentieth day of Iune, 1647. Arthur Annesley, Rob. King, Rob. Meredith, Mic. Iones, Iohn Moore."</note>
+                  <note>Other title information from first lines of text.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army.</term>
+               <term type="geographic_name">Ireland --  History --  1625-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="genre_form">Broadsides --  Dublin (Ireland) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:205875:1"/>
+            <head>
+               <figure>
+                  <figDesc>architectural decoration featuring the combined roses of the British royal family</figDesc>
+                  <p>C R</p>
+               </figure>¶ By the Commissioners from the PARLIAMENT of ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS Wee have received Information, that not onely divers Souldiers of the Army but severall disordered and loose Persons, exact Contribution or free quar<g ref="char:EOLhyphen"/>ter at their pleasure, from those that inhabite and reside within the English Quarters, to the great discouragement of the husbandman and tradesmen, to continue in their vocations, when they haue no assurance to enjoy what they have gotten by their painful Labours, And whereas oppressions increase by some peoples taking the liberty to buy of the Souldiers and other Persons, forementioned such Cattell or other Commo<g ref="char:EOLhyphen"/>dities, as by indirect means come to their hands. And whereas information hath been given unto us that many protected Persons paying contribution in the English quar<g ref="char:EOLhyphen"/>ters, upon the change of Government here, have apprehensions of danger to their Per<g ref="char:EOLhyphen"/>sons and Estates, unlesse they shall by some publike Act be assured they may continue there with safety.</p>
+            <p>For Remedy in all these particulars we thinke fit to publish and declare, that no manner of person, of what degree or quality soever, upon any pretence whatsoever, shall or may for the future take free quarter, or Contribution without spetiall Warrant: nor shall presume to buy of the Souldiers or others of the Army any Cattel or other Commodities without certificate first had from the Superior Officer then Commanding the Troope or Company, in which any Souldier or other of the Army exposing such Cattel or Commo<g ref="char:EOLhyphen"/>dities to sale is inlisted; The said Certificate to be produced to the Commander in Chiefe of that Garrison, or place where the sale is made (to Justify his or their honest comming by the same) whom we shall call to a strict account for any Transgression of the Souldier in this kind, and inflict severe punishment upon all offenders against this Proclamation. And we do further publish and declare, that all such as have come under Contribution and do now live in the English quarters and shall continue payment of Contribution shall be protected in their persons and Estates, as well from the violence of the Souldiers under the Parliament as of the Enemy, And this to be extended to all without any distinction of Offence or Religion, and that they shall receive safeguard by the countenance of the forces under the Parliament. And we do further declare, that this Proclamation as to that part of it concerning protected persons, is to continue and be of force for and untill the end of one whole yeere next ensuing the date hereof. And wee thinke fit also to publish and declare (to take away all apprehensions from the people of this Kingdome that the Parliament as hath been spetiously insinuated by desperate persons intends the extirpation of the Irish Nation) that all other persons whatsoever of this Kingdome who reside out of the said quarters, that shall within eight and twenty dayes after the publication hereof agred with us (or Colonell Michael Iones Commander in Chiefe of all the forces in the province of Leinster and the rest of the Garrisons late in the power of the Lord of Ormonde) to pay Contribution to and for the maintenance of the English. Army or any of the Garrisons within the power of the Parliament, shall not bee pillaged nor any way wronged in their persons or Estates, but shall bee taken to bee within the benefit of this Proclamation, to all intents and pur<g ref="char:EOLhyphen"/>poses equaly, and for as long time as is hereby given to those who are already protected, and doe pay Contribution within the said English quarters, And for the better observance hereof, We doe will and require, all and every the Go<g ref="char:EOLhyphen"/>vernours, Officers Commanders and Souldiers, under the Parliaments Command, that they nor any of them doe presume upon paine of death to offer any violence injury or wrong unto any of the persons aforesaid or their Estates, And that they to the uttermost of their power protect and defend them from all violence or injurie which shall bee offered unto them or their Estates, to the end they may be incourraged to go on in their Tillage and other workes of Hus<g ref="char:EOLhyphen"/>bandry, whereby they may bee the better enabled to contribute towards the maintenance of the Army. And hereof all Governours, Commanders, Officers and Souldiers, under the Parliaments command and all others concerned are to take notice at their extreame perils.</p>
+            <closer>
+               <dateline>Given at <hi>Dublin,</hi>
+                  <date>the three and twentieth day of <hi>Iune,</hi> 1647.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Arthur Annesley.</item>
+                     <item>Rob. King.</item>
+                     <item>Rob. Meredith.</item>
+                     <item>Mic. Iones.</item>
+                     <item>Iohn Moore.</item>
+                  </list>
+               </signed>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at <hi>DUBLIN,</hi> by <hi>VVILLIAM BLADEN,</hi> Printer to the Kings most Ex ellent Majestie, <hi>Anno Dom. 1647.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
